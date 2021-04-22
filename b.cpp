@@ -1,0 +1,9 @@
+class b
+{
+
+ 	int main()
+	{
+
+	}
+
+}
